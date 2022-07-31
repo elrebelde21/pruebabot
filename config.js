@@ -32,7 +32,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['56977774748'] 
+global.vcardowner = ['5697777474'] 
 global.ownername = "░▒▓█►─═ 𝓝𝓸𝓿𝓪𝓫𝓸𝓽-ℳ𝓓 ═─◄█▓▒░"
 global.ytname = "YT: a" 
 global.socialm = "GitHub: Novabot-MD" 
